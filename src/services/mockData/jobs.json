@@ -1,0 +1,193 @@
+{
+  "jobData": [
+    {
+      "Id": 1,
+      "title": "Senior Frontend Developer",
+      "company": "TechCorp Solutions",
+      "description": "We're looking for an experienced Frontend Developer to join our growing team. You'll be responsible for building and maintaining our web applications using React, TypeScript, and modern frontend technologies. The ideal candidate has a passion for creating exceptional user experiences and writing clean, maintainable code.",
+      "requirements": [
+        "5+ years of experience with React and JavaScript",
+        "Strong proficiency in TypeScript and modern ES6+ features",
+        "Experience with state management libraries (Redux, Zustand)",
+        "Knowledge of CSS preprocessors and modern CSS features",
+        "Experience with testing frameworks (Jest, React Testing Library)",
+        "Familiarity with build tools and CI/CD pipelines",
+        "Strong problem-solving skills and attention to detail"
+      ],
+      "salary": {
+        "min": 90000,
+        "max": 130000
+      },
+      "location": "San Francisco, CA",
+      "category": "Technology",
+      "experienceLevel": "Senior Level",
+      "postedDate": "2024-01-15T10:00:00Z",
+      "status": "Active"
+    },
+    {
+      "Id": 2,
+      "title": "Product Marketing Manager",
+      "company": "InnovateCo",
+      "description": "Join our dynamic marketing team as a Product Marketing Manager. You'll be responsible for developing go-to-market strategies, creating compelling product messaging, and working closely with cross-functional teams to drive product adoption and growth.",
+      "requirements": [
+        "3+ years of product marketing experience",
+        "Strong analytical and strategic thinking skills",
+        "Experience with marketing automation tools",
+        "Excellent written and verbal communication skills",
+        "Experience with A/B testing and data analysis",
+        "Bachelor's degree in Marketing, Business, or related field"
+      ],
+      "salary": {
+        "min": 75000,
+        "max": 105000
+      },
+      "location": "New York, NY",
+      "category": "Marketing",
+      "experienceLevel": "Mid Level",
+      "postedDate": "2024-01-12T09:30:00Z",
+      "status": "Active"
+    },
+    {
+      "Id": 3,
+      "title": "UX/UI Designer",
+      "company": "DesignStudio Pro",
+      "description": "We're seeking a talented UX/UI Designer to help create beautiful and intuitive digital experiences. You'll work on a variety of projects from web applications to mobile apps, collaborating with developers and product managers to bring designs to life.",
+      "requirements": [
+        "3+ years of UX/UI design experience",
+        "Proficiency in Figma, Sketch, or Adobe Creative Suite",
+        "Strong portfolio showcasing design process and thinking",
+        "Understanding of user-centered design principles",
+        "Experience with prototyping and user testing",
+        "Knowledge of HTML/CSS is a plus"
+      ],
+      "salary": {
+        "min": 70000,
+        "max": 95000
+      },
+      "location": "Austin, TX",
+      "category": "Design",
+      "experienceLevel": "Mid Level",
+      "postedDate": "2024-01-10T14:20:00Z",
+      "status": "Active"
+    },
+    {
+      "Id": 4,
+      "title": "Sales Development Representative",
+      "company": "GrowthTech Inc",
+      "description": "Join our high-energy sales team as a Sales Development Representative. You'll be responsible for qualifying leads, setting up meetings for the sales team, and helping drive our revenue growth through strategic outreach and relationship building.",
+      "requirements": [
+        "1-2 years of sales or business development experience",
+        "Excellent communication and interpersonal skills",
+        "Experience with CRM systems (Salesforce preferred)",
+        "Strong organizational and time management skills",
+        "Goal-oriented with a track record of meeting targets",
+        "Bachelor's degree preferred but not required"
+      ],
+      "salary": {
+        "min": 45000,
+        "max": 65000
+      },
+      "location": "Chicago, IL",
+      "category": "Sales",
+      "experienceLevel": "Entry Level",
+      "postedDate": "2024-01-08T11:45:00Z",
+      "status": "Active"
+    },
+    {
+      "Id": 5,
+      "title": "DevOps Engineer",
+      "company": "CloudFirst Technologies",
+      "description": "We're looking for a skilled DevOps Engineer to help us scale our cloud infrastructure and improve our deployment processes. You'll work with cutting-edge technologies and be responsible for maintaining highly available systems that serve millions of users.",
+      "requirements": [
+        "4+ years of DevOps or infrastructure experience",
+        "Strong experience with AWS, Azure, or Google Cloud Platform",
+        "Proficiency with containerization (Docker, Kubernetes)",
+        "Experience with infrastructure as code (Terraform, CloudFormation)",
+        "Knowledge of CI/CD pipelines and automation tools",
+        "Understanding of monitoring and logging solutions",
+        "Strong scripting skills (Python, Bash, or similar)"
+      ],
+      "salary": {
+        "min": 95000,
+        "max": 140000
+      },
+      "location": "Seattle, WA",
+      "category": "Technology",
+      "experienceLevel": "Senior Level",
+      "postedDate": "2024-01-05T16:30:00Z",
+      "status": "Active"
+    },
+    {
+      "Id": 6,
+      "title": "Data Analyst",
+      "company": "DataDriven Corp",
+      "description": "Join our analytics team to help drive data-informed decision making across the organization. You'll be responsible for analyzing complex datasets, creating insightful reports, and working with stakeholders to identify opportunities for business improvement.",
+      "requirements": [
+        "2+ years of data analysis experience",
+        "Strong proficiency in SQL and data visualization tools",
+        "Experience with Python or R for data analysis",
+        "Knowledge of statistical analysis and A/B testing",
+        "Experience with business intelligence tools (Tableau, PowerBI)",
+        "Strong attention to detail and analytical thinking",
+        "Bachelor's degree in relevant field"
+      ],
+      "salary": {
+        "min": 60000,
+        "max": 85000
+      },
+      "location": "Remote",
+      "category": "Technology",
+      "experienceLevel": "Mid Level",
+      "postedDate": "2024-01-03T13:15:00Z",
+      "status": "Active"
+    },
+    {
+      "Id": 7,
+      "title": "Customer Success Manager",
+      "company": "ClientFirst Solutions",
+      "description": "We're seeking a Customer Success Manager to help our clients achieve their goals and maximize value from our platform. You'll build strong relationships with key accounts, identify expansion opportunities, and ensure high customer satisfaction and retention rates.",
+      "requirements": [
+        "3+ years of customer success or account management experience",
+        "Strong communication and relationship-building skills",
+        "Experience with SaaS products and subscription models",
+        "Ability to analyze customer data and identify trends",
+        "Problem-solving skills and customer-focused mindset",
+        "Experience with CRM and customer success tools",
+        "Bachelor's degree preferred"
+      ],
+      "salary": {
+        "min": 65000,
+        "max": 90000
+      },
+      "location": "Boston, MA",
+      "category": "Customer Service",
+      "experienceLevel": "Mid Level",
+      "postedDate": "2024-01-01T08:00:00Z",
+      "status": "Active"
+    },
+    {
+      "Id": 8,
+      "title": "Financial Analyst",
+      "company": "FinancePartners LLC",
+      "description": "Join our finance team as a Financial Analyst to support strategic decision-making through detailed financial analysis and modeling. You'll work on budgeting, forecasting, and variance analysis while collaborating with various departments to drive financial performance.",
+      "requirements": [
+        "2+ years of financial analysis experience",
+        "Strong proficiency in Excel and financial modeling",
+        "Knowledge of accounting principles and financial statements",
+        "Experience with ERP systems and financial software",
+        "Strong analytical and problem-solving skills",
+        "Excellent attention to detail and accuracy",
+        "Bachelor's degree in Finance, Accounting, or related field"
+      ],
+      "salary": {
+        "min": 55000,
+        "max": 75000
+      },
+      "location": "New York, NY",
+      "category": "Finance",
+      "experienceLevel": "Mid Level",
+      "postedDate": "2023-12-28T10:30:00Z",
+      "status": "Active"
+    }
+  ]
+}

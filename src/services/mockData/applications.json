@@ -1,0 +1,103 @@
+{
+  "applicationData": [
+    {
+      "Id": 1,
+      "jobId": "1",
+      "candidateName": "Sarah Johnson",
+      "email": "sarah.johnson@email.com",
+      "phone": "(555) 123-4567",
+      "resumeUrl": "https://example.com/resume-sarah-johnson.pdf",
+      "coverLetter": "I am excited to apply for the Senior Frontend Developer position at TechCorp Solutions. With over 6 years of experience in React development and a passion for creating exceptional user experiences, I believe I would be a valuable addition to your team. My experience includes building scalable web applications, implementing modern state management solutions, and collaborating with cross-functional teams to deliver high-quality products.",
+      "status": "Applied",
+      "appliedDate": "2024-01-16T09:15:00Z"
+    },
+    {
+      "Id": 2,
+      "jobId": "1",
+      "candidateName": "Michael Chen",
+      "email": "michael.chen@email.com",
+      "phone": "(555) 234-5678",
+      "resumeUrl": "https://example.com/resume-michael-chen.pdf",
+      "coverLetter": "Dear Hiring Manager, I am writing to express my interest in the Senior Frontend Developer role. My 7 years of experience with React, TypeScript, and modern frontend technologies align perfectly with your requirements. I have successfully led multiple projects from conception to deployment and am excited about the opportunity to contribute to TechCorp Solutions' innovative products.",
+      "status": "Reviewing",
+      "appliedDate": "2024-01-15T14:30:00Z"
+    },
+    {
+      "Id": 3,
+      "jobId": "2",
+      "candidateName": "Emily Rodriguez",
+      "email": "emily.rodriguez@email.com",
+      "phone": "(555) 345-6789",
+      "resumeUrl": "https://example.com/resume-emily-rodriguez.pdf",
+      "coverLetter": "I am thrilled to apply for the Product Marketing Manager position at InnovateCo. With 4 years of experience in product marketing and a proven track record of successful go-to-market strategies, I am confident I can drive product adoption and growth for your team. My analytical approach to marketing and experience with data-driven decision making would be valuable assets to your organization.",
+      "status": "Interviewing",
+      "appliedDate": "2024-01-13T11:20:00Z"
+    },
+    {
+      "Id": 4,
+      "jobId": "3",
+      "candidateName": "David Park",
+      "email": "david.park@email.com",
+      "phone": "(555) 456-7890",
+      "resumeUrl": "https://example.com/resume-david-park.pdf",
+      "coverLetter": "Hello, I am excited to apply for the UX/UI Designer position at DesignStudio Pro. My 4 years of experience in user-centered design and proficiency in modern design tools make me an ideal candidate for this role. I have a strong portfolio showcasing my design process and have successfully collaborated with development teams to bring designs to life. I am passionate about creating intuitive and beautiful digital experiences.",
+      "status": "Applied",
+      "appliedDate": "2024-01-11T16:45:00Z"
+    },
+    {
+      "Id": 5,
+      "jobId": "4",
+      "candidateName": "Jessica Thompson",
+      "email": "jessica.thompson@email.com",
+      "phone": "(555) 567-8901",
+      "resumeUrl": "https://example.com/resume-jessica-thompson.pdf",
+      "coverLetter": "I am writing to apply for the Sales Development Representative position at GrowthTech Inc. With 2 years of experience in business development and a proven track record of exceeding targets, I am excited about the opportunity to contribute to your sales team's growth. My strong communication skills and experience with CRM systems would help me excel in this role.",
+      "status": "Hired",
+      "appliedDate": "2024-01-09T08:30:00Z"
+    },
+    {
+      "Id": 6,
+      "jobId": "5",
+      "candidateName": "Robert Kim",
+      "email": "robert.kim@email.com",
+      "phone": "(555) 678-9012",
+      "resumeUrl": "https://example.com/resume-robert-kim.pdf",
+      "coverLetter": "Dear CloudFirst Technologies team, I am interested in the DevOps Engineer position. With 5 years of experience in cloud infrastructure and automation, I have extensive knowledge of AWS, Kubernetes, and infrastructure as code. I am passionate about building scalable, reliable systems and would love to contribute to your team's success in serving millions of users.",
+      "status": "Reviewing",
+      "appliedDate": "2024-01-06T12:00:00Z"
+    },
+    {
+      "Id": 7,
+      "jobId": "6",
+      "candidateName": "Amanda Wilson",
+      "email": "amanda.wilson@email.com",
+      "phone": "(555) 789-0123",
+      "resumeUrl": "https://example.com/resume-amanda-wilson.pdf",
+      "coverLetter": "I am excited to apply for the Data Analyst position at DataDriven Corp. My 3 years of experience in data analysis, combined with strong skills in SQL, Python, and data visualization, make me well-suited for this role. I have successfully identified business opportunities through data analysis and am passionate about driving data-informed decision making.",
+      "status": "Applied",
+      "appliedDate": "2024-01-04T10:15:00Z"
+    },
+    {
+      "Id": 8,
+      "jobId": "7",
+      "candidateName": "Christopher Lee",
+      "email": "christopher.lee@email.com",
+      "phone": "(555) 890-1234",
+      "resumeUrl": "https://example.com/resume-christopher-lee.pdf",
+      "coverLetter": "Hello ClientFirst Solutions team, I am writing to express my interest in the Customer Success Manager position. With 4 years of experience in customer success for SaaS companies, I have consistently achieved high customer satisfaction and retention rates. My relationship-building skills and data-driven approach to customer success would be valuable assets to your team.",
+      "status": "Rejected",
+      "appliedDate": "2024-01-02T15:30:00Z"
+    },
+    {
+      "Id": 9,
+      "jobId": "8",
+      "candidateName": "Nicole Martinez",
+      "email": "nicole.martinez@email.com",
+      "phone": "(555) 901-2345",
+      "resumeUrl": "https://example.com/resume-nicole-martinez.pdf",
+      "coverLetter": "I am pleased to apply for the Financial Analyst position at FinancePartners LLC. With a strong background in financial modeling and analysis, combined with my CPA certification, I am confident in my ability to support strategic decision-making through detailed financial analysis. My experience with ERP systems and budgeting processes would be valuable to your finance team.",
+      "status": "Applied",
+      "appliedDate": "2023-12-29T09:45:00Z"
+    }
+  ]
+}
